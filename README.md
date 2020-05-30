@@ -1,2 +1,2 @@
 # Tierm
-An open-source dnd world.
+An open-source dnd UNIVERSE.
